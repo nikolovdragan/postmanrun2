@@ -1,4 +1,4 @@
-name: API Test Otv
+name: API Test Otv 2
 
 on:
   schedule:
